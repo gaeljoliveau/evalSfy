@@ -2,20 +2,38 @@
 
 {% block content %}
 
-    <div class="container" style="width: 100%">
-    <div class="row">
-    {% for artwork in artworks %}
 
-        <a href="#" >
-        <div  class="card col-10" style="width: 18rem;">
-            <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">{{ artwork.name }}</h5>
-                <p class="card-text">{{ artwork.description | truncate(90, true) }}</p>
-            </div>
-        </div>
-        </a>
-    {% endfor %}
+    <div class="container" style="width: 100%" >
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link active" href="{{ url( 'artwork.index' ) }}">Tous</a>
+            </li>
+            {% for category in categories %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ url('artwork.indexfiltered', { catId: category.id}) }}">{{ category.name }}</a>
+                </li>
+            {% endfor %}
+        </ul>
     </div>
+
+    <div style="margin-bottom: 40px"></div>
+
+    <div class="container" style="width: 100%">
+
+        <div class="row">
+
+            {% for artwork in artworks %}
+
+                <a href="{{ url('artwork.detail', { id: artwork.id }) }}" >
+                    <div  class="card col-10" style="width: 18rem;">
+                        <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ artwork.name }}</h5>
+                            <p class="card-text">{{ artwork.description | truncate(90, true) }}</p>
+                        </div>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
     </div>
 {% endblock %}

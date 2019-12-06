@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block content %}
+
+    <div class="container">
+        <section class="row">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">{{ artwork.name }}</h5>
+                    <p class="card-text">{{ artwork.description }}</p>
+                </div>
+                <img class="card-img-bottom" src="{{ asset('img/artwork/' ~ artwork.picture) }}" alt="Card image cap">
+            </div>
+        </section>
+    </div>
+
+{% endblock %}
