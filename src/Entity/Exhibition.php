@@ -31,6 +31,11 @@ class Exhibition
      */
     private $description;
 
+    /**
+     * @ORM\Column(type="date")
+     */
+    private $date;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -68,6 +73,18 @@ class Exhibition
     public function setDescription(string $description): self
     {
         $this->description = $description;
+
+        return $this;
+    }
+
+    public function getDate(): ?\DateTimeInterface
+    {
+        return $this->date;
+    }
+
+    public function setDate(\DateTimeInterface $date): self
+    {
+        $this->date = $date;
 
         return $this;
     }
