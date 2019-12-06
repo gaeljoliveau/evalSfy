@@ -23,7 +23,7 @@ class ArtworkFixtures extends Fixture implements OrderedFixtureInterface
 
             $artwork
                 ->setName($faker->unique()->sentence(3))
-                ->setDescription($faker->text)
+                ->setDescription($faker->paragraph(10, false))
                 ->setPicture($faker->image('public/img/artwork/', 1920, 1080, null, false));
 
             $randomCategoryIndex = random_int(0, count($this->categories) - 1);

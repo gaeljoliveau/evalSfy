@@ -3,5 +3,36 @@
 {% block title %}Hello ExhibitionController!{% endblock %}
 
 {% block content %}
+
+
+
+<div class="container" style="width: 100%">
+
     <h1>Expositions</h1>
+
+    <div class="accordion" id="accordionExample">
+
+        {% for exhibition in exhibitions %}
+        <div class="card">
+            <div class="card-header" id="heading-{{ exhibition.id }}">
+                <h2 class="mb-0">
+                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse-{{ exhibition.id }}" aria-expanded="true" aria-controls="collapse-{{ exhibition.id }}">
+                        {{ exhibition.name }}
+                    </button>
+                </h2>
+            </div>
+
+            <div id="collapse-{{ exhibition.id }}" class="collapse" aria-labelledby="heading-{{ exhibition.id }}" data-parent="#accordionExample">
+                <div class="card-body">
+                    <p>Lieu : {{ exhibition.place }}</p>
+                    <p>{{ exhibition.description }}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+    </div>
+</div>
+
 {% endblock %}
