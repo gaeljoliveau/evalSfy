@@ -1,7 +1,22 @@
 {% extends 'base.html.twig' %}
 
+
 {% block content %}
-    <div class="col">
-        <h3>Accueil</h3>
+    <div id="carousel" class="carousel slide col-10 text-center" data-ride="carousel">
+
+        <div class="carousel-inner">
+
+            {% for artwork in randomArtworks %}
+                <div  class="carousel-item {% if loop.index == 1 %} active {% endif %}  ">
+                    <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="d-block " alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>{{ artwork.name }}</h5>
+                        <p>{{ artwork.description | truncate(15, true) }}.</p>
+                    </div>
+                </div>
+            {% endfor %}
+
+        </div>
     </div>
+
 {% endblock %}

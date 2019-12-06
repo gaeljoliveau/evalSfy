@@ -2,7 +2,9 @@
 
 namespace App\Controller;
 
-use App\Repository\ProductRepository;
+use App\Entity\Artwork;
+use App\Repository\ArtworkRepository;
+use App\Repository\CategoryRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
@@ -12,7 +14,7 @@ class HomepageController extends AbstractController
     /**
      * @Route("/", name="homepage.index")
      */
-    public function index():Response
+    public function index(ArtworkRepository $artworkRepository, CategoryRepository $categoryRepository):Response
     {
         /*
          * repository : exclusivement pour les SELECT
@@ -33,7 +35,18 @@ class HomepageController extends AbstractController
         //$this->denyAccessUnlessGranted('IS_AUTHENTICATED_FULLY');
         //dd($this->isGranted('IS_AUTHENTICATED_FULLY'));
 
-        return $this->render('homepage/index.html.twig');
+
+        $randomArtworks = $artworkRepository->get3randomArtworks();
+        $categories = $categoryRepository->findAll();
+
+        return $this->render('homepage/index.html.twig',[
+            'randomArtworks' => $randomArtworks,
+            'categories' => $categories
+            ]);
+
+        //return new Response("test");
+        //return $this->render('homepage/test.html.twig');
     }
+
 
 }

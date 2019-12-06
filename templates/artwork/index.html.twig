@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block content %}
+
+    <div class="container" style="width: 100%">
+    <div class="row">
+    {% for artwork in artworks %}
+
+        <a href="#" >
+        <div  class="card col-10" style="width: 18rem;">
+            <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">{{ artwork.name }}</h5>
+                <p class="card-text">{{ artwork.description | truncate(90, true) }}</p>
+            </div>
+        </div>
+        </a>
+    {% endfor %}
+    </div>
+    </div>
+{% endblock %}

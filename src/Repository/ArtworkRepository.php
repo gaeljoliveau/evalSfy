@@ -19,6 +19,17 @@ class ArtworkRepository extends ServiceEntityRepository
         parent::__construct($registry, Artwork::class);
     }
 
+    /**
+     * @return Artwork[] Returns an array of Artwork objects
+     */
+    public function get3RandomArtworks(){
+        return $this->createQueryBuilder('a')
+            ->setMaxResults(3)
+            ->getQuery()
+            ->getResult()
+            ;
+    }
+
     // /**
     //  * @return Artwork[] Returns an array of Artwork objects
     //  */
