@@ -25,6 +25,7 @@
             <div id="collapse-{{ exhibition.id }}" class="collapse" aria-labelledby="heading-{{ exhibition.id }}" data-parent="#accordionExample">
                 <div class="card-body">
                     <p>Lieu : {{ exhibition.place }}</p>
+                    <p>Date : {{ exhibition.date|date("d/m/Y") }}</p>
                     <p>{{ exhibition.description }}</p>
                 </div>
             </div>

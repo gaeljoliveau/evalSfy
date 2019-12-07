@@ -19,6 +19,16 @@ class ExhibitionRepository extends ServiceEntityRepository
         parent::__construct($registry, Exhibition::class);
     }
 
+    public function getUpcomingExhibition(){
+
+        return $this->createQueryBuilder('exhibition')
+            ->where('exhibition.date > CURRENT_DATE()')
+            ->orderBy('exhibition.date', 'ASC')
+            ->getQuery()
+            ->getResult()
+            ;
+    }
+
     // /**
     //  * @return Exhibition[] Returns an array of Exhibition objects
     //  */

@@ -8,7 +8,7 @@
 
             {% for artwork in randomArtworks %}
                 <div  class="carousel-item {% if loop.index == 1 %} active {% endif %}  ">
-                    <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="d-block " alt="...">
+                    <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="d-block" alt="...">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>{{ artwork.name }}</h5>
                         <p>{{ artwork.description | truncate(15, true) }}.</p>
@@ -18,5 +18,6 @@
 
         </div>
     </div>
+
 
 {% endblock %}
