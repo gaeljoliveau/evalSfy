@@ -4,6 +4,7 @@ namespace App\Form;
 
 use App\Entity\Artwork;
 use App\Entity\Category;
+use App\EventSubscriber\Form\ArtworkFormSubscriber;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\TextareaType;
@@ -25,7 +26,6 @@ class ArtworkType extends AbstractType
                     ])
                 ]
             ])
-            ->add('picture')
             ->add('description', TextareaType::class, [
                 'constraints' => [
                     new NotBlank([
@@ -53,6 +53,8 @@ class ArtworkType extends AbstractType
                 'expanded' => false,
             ])
         ;
+
+        $builder->addEventSubscriber(new ArtworkFormSubscriber());
     }
 
     public function configureOptions(OptionsResolver $resolver)

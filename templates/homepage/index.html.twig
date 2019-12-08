@@ -2,22 +2,43 @@
 
 
 {% block content %}
-    <div id="carousel" class="carousel slide col-10 text-center" data-ride="carousel">
+    <div class="container">
+        <div class="row">
 
-        <div class="carousel-inner">
-
-            {% for artwork in randomArtworks %}
-                <div  class="carousel-item {% if loop.index == 1 %} active {% endif %}  ">
-                    <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="d-block" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>{{ artwork.name }}</h5>
-                        <p>{{ artwork.description | truncate(15, true) }}.</p>
-                    </div>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    {% for key, artwork in randomArtworks %}
+                        <li data-target="#carouselExampleIndicators"
+                            data-slide-to="{{ key }}"
+                            class="{{ key == 0 ? 'active' : '' }}"></li>
+                    {% endfor %}
+                </ol>
+                <div class="carousel-inner">
+                    {% for key, artwork in randomArtworks %}
+                        <div class="carousel-item {{ key == 0 ? 'active' : '' }}">
+                            <a href="{{ url('admin.artwork.update', { id: artwork.id }) }}">
+                                <img class="d-block w-100" src="{{ asset('img/artwork/' ~ artwork.picture) }}" alt="">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5>{{ artwork.name }}</h5>
+                                    <p>{{ artwork.description | truncate(20, true) }}</p>
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
                 </div>
-            {% endfor %}
-
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
         </div>
     </div>
+
+
 
 
 {% endblock %}

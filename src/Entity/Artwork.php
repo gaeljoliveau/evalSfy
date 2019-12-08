@@ -53,12 +53,12 @@ class Artwork
         return $this;
     }
 
-    public function getPicture(): ?string
+    public function getPicture()
     {
         return $this->picture;
     }
 
-    public function setPicture(string $picture): self
+    public function setPicture(string $picture)
     {
         $this->picture = $picture;
 
