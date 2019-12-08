@@ -46,6 +46,7 @@ class ArtworkSubscriber implements EventSubscriber
 		if(!$entity instanceof Artwork){
 			return;
 		} else {
+            //dd($entity->getName());
 			// transfert d'image
 			if($entity->getPicture() instanceof UploadedFile){
 				$this->fileService->upload($entity->getPicture(), 'img/artwork');
@@ -80,6 +81,7 @@ class ArtworkSubscriber implements EventSubscriber
 		if(!$entity instanceof Artwork){
 			return;
 		} else {
+		    //dd($entity->getName());
 			// si une image a été sélectionnée
 			if($entity->getPicture() instanceof UploadedFile){
 				// transfert de la nouvelle image

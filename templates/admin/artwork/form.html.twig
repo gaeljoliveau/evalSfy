@@ -17,6 +17,10 @@
             {{ form_widget(form.category) }}
         </p>
         <p>
+            {{ form_label(form.picture, 'Image:') }}
+            {{ form_widget(form.picture) }}
+        </p>
+        <p>
             <input type="submit" value="Valider" class="btn btn-primary">
         </p>
         {{ form_end(form) }}
