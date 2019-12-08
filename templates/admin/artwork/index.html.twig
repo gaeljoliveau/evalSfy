@@ -1,0 +1,25 @@
+{% extends 'admin/admin.html.twig' %}
+
+{% block content %}
+
+    <div class="container" style="width: 100%">
+        <a type="button" class="btn btn-dark" style="margin-bottom: 40px" href="{{ url('admin.artwork.form') }}">+ Ajouter une oeuvre</a>
+        <div class="row">
+
+
+
+            {% for artwork in artworks %}
+
+                <a href="{{ url('admin.artwork.update', { id: artwork.id }) }}" >
+                    <div  class="card col-10" style="width: 18rem;">
+                        <img src="{{ asset('img/artwork/' ~ artwork.picture) }}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ artwork.name }}</h5>
+                            <p class="card-text">{{ artwork.description | truncate(90, true) }}</p>
+                        </div>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}
