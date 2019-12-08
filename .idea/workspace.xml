@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee6260fe-3bfc-4034-8bf9-6ecd7ed8b2bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/04a96bfe9e0559cba51b3cafa59d9521.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/0fde2b5f96fa4b4d469791a810b97600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/13a566de45fdae4780a93fd72a54f926.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/184e9f4bb8a4ee5e32016c457e1a7480.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/1881894750bf97dd075adcdda2050557.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/1a7767b2c756167d952ab8c713cf9b29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/1b9fc534aacb12014bdb2110e6886bb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/1e07ccc4548e99f3c87339749558540b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/1e13ea972e14ce74ad806210f528f27f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/29f317284ffbd405857dd43a36ca9601.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/2a5847e7ddc122d641ffb2dd6719960b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/2c7cdadf28d2117c53218f316308778c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/2d8a54cf35331f077e8f2bab9c080464.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/3213666a9211e980b402e069b065b8c3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/33680437f2ac0974c024e3abc8925c37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/346af88a146f07d165cbfdd350965f37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/38c97d57c65b407d3220300eb1f8fa02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/392732e2160de71f86cd6c680e59aa0b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/3a5de5afde7aaadef361437a1ff495f4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/46a2c7378548e44f5f4421dbe8cf1bc6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/46b36d62df32ded62a64506bdc0db35d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/4b7163b91ad9ea2777801a92fc2d017e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/4bac1b57fda927cc871cc92eac0f7f0c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/5635a83fb38e13580c8000684bfeb809.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/573e196aeda6fba06bf998b86b2b7155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/574bf643526cc475cea8b363b35eb5dd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/5c668147b3e908c4658065155fde1dd6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/5cade255d5f73d7d7cbb0f8944c320c9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/611bcd1750d1f9c1511add1827bb8b2a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/62251a56ffa78e9383e0dfa60bb50be8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/6bad95b5577bf0b7346703c3ccd9258c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/71ac9f8f3ee125e5c288bc6610042baf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/71da809c2c2fe52961748af32f64c82d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/766f0112b5e73de3af5c551baedf5433.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/7a53706d19b90319651db4a195b7c005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/7f871600675468fe3151eb7fc6a22623.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/819dcc7ca9feb75e0e755968e29c916c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/86dcba8d13cd5e938df88812fad09de9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/88f9049fd4f222af55f4cb638b538a93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/9897431d8c167aa5c20e750a99e0cc7b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/9c77a6ea12638d3d0c78a6d964ba67e2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/9ca72ae8d5ab28a5e1f0164b7f9682ba.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/9de24f5bb035d370fee57ec9c5da791b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/a2949779487666ff988437d7236c8b9e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/a2c196e86befd7acf9aa618a3d717489.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/ae58fd816f6149d89ae70768a5af062c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/b4d9172bc4dad9617d444de64b8e09ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/bc8a127aea7ade77d0b487ef7ed0296a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/c468cd18af6f08e5faff2b384302fa6a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/cac34db61ca8b5cf718725110ef321fc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/ceaff9d7d613bcbe3329e21a084eaaa8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/d9650f9e409ecef70988cd08dd3fa99a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/e473a40b284e7c3b0378f6512536c379.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/e966be4a2a6eda765bacbfeddffa2cc3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/e9eb148256252266724a0095a61f4946.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/f04fbc2dc41c534226b3a6f109c5c0f0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/f0a9b6f3599eb646aedd798ef9b12d27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/f6af7619d8d34615b4c627e71dd605fa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/f7baf65d9d0ad80dbb28a23f47fed94d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/artwork/fb994cc113820774d42c16f4b592b610.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="ee6260fe-3bfc-4034-8bf9-6ecd7ed8b2bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +10,184 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+<<<<<<< Updated upstream
     <execution>
       <executable />
     </execution>
+=======
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1636464448">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="env" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="4" />
+          <entry key="json" value="2" />
+          <entry key="php" value="16" />
+          <entry key="twig" value="9" />
+          <entry key="yaml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="16" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Twig" value="9" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="13" />
+          <entry key="js" value="11" />
+          <entry key="php" value="1406" />
+          <entry key="twig" value="1845" />
+          <entry key="yaml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="11" />
+          <entry key="PHP" value="1406" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Twig" value="1845" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataFixtures/ArtworkFixtures.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#37#60#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Exhibition.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/ExhibitionController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#34#74#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/exhibition/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/HomepageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+              <folding>
+                <element signature="e#34#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Artwork.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/ArtworkController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#34#71#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/artwork/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> Stashed changes
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,7 +270,109 @@
       <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
     </include_path>
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="1UcgWCGQpnNKsUhO2lEgycyQq7x" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataFixtures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="artwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="exhibition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="evalSfy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="evalSfy" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+>>>>>>> Stashed changes
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -188,6 +404,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575623282512</updated>
       <workItem from="1575623283661" duration="6576000" />
+<<<<<<< Updated upstream
       <workItem from="1575630145839" duration="22391000" />
       <workItem from="1575661329242" duration="201000" />
       <workItem from="1575662713162" duration="935000" />
@@ -210,5 +427,291 @@
         </entry>
       </map>
     </option>
+=======
+      <workItem from="1575630145839" duration="23054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29630000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31453362" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31453362" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataFixtures/AppFixtures.php" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataFixtures/CategoryFixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#36#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/artwork/1c6218fc42d3dd0f47028b44ea15cbf5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataFixtures/ExhibitionFixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding>
+            <element signature="e#36#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/ArtworkRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/build/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage/test.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/twig_extensions.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/artwork/f7998b11addcbfce6363eb6de44f6258.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/ExhibitionRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="6" lean-forward="true" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/homepage/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/artwork/artwork.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/exposition/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ArtworkController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#34#71#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Artwork.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/HomepageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <element signature="e#34#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ExhibitionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#34#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Exhibition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataFixtures/ArtworkFixtures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#37#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/artwork/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/exhibition/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
   </component>
 </project>
